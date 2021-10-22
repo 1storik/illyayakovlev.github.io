@@ -1,0 +1,10 @@
+p{
+	font-family: AndikaNewBasic-Regular;
+	color: #20B2AA;
+	font-size: 14px
+	margin: 0.1%;
+}
+
+p::first-letter{
+	color: red;
+}

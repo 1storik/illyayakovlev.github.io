@@ -1,0 +1,13 @@
+#gallery
+{
+border: 100% ;
+border-top-width: 35px;
+border-bottom-width: 100px;
+text-align: center;
+}
+
+img
+{
+width: 500px;
+height: 307px;
+}

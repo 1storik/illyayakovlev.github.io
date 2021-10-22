@@ -1,0 +1,36 @@
+.nav {
+    font-family: Montserrat;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    background: linear-gradient(45deg, #FF00FF, #800080);
+}
+
+.nav ul {
+    list-style: none;S
+    height: 10%;
+}
+
+.nav li {
+    display: inline-block;
+}
+
+.nav a {
+    line-height: 20px;
+    display: block;
+    padding: 0 5px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+    font-family: sans-serif;
+    font-weight: bold;
+    transition: 0.3s;
+    
+}
+
+.nav a:hover {
+    background-color: #006400;
+}
+    

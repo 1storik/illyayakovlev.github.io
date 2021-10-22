@@ -1,0 +1,36 @@
+table {
+    font-family: Andika New Basic;
+    font-size: 100%;
+    text-align: center;
+    border: dotted ;
+    border-collapse: collapse;
+    margin: auto;
+}
+
+tr, td {
+    border: 1%;
+    padding: 0.5%;
+}
+
+tr:nth-child(odd) {
+    background: #424242;
+    color:white;
+}
+
+tr:nth-child(1) {
+    background: #2B2B2B;
+    color: white;
+}
+tr:nth-child(2) {
+    background: #696969;
+    color: white;
+}
+
+#l1 tr:nth-child(3){
+    background: #808080;
+    color: white;
+}
+#l1 tr:nth-child(2){
+    background: #2B2B2B;
+    color:white;
+}
